@@ -11,7 +11,7 @@ import Footer from './components/Footer';
 function App() {
   useEffect(() => {
     // Update the document title
-    document.title = 'Your Name | Portfolio';
+    document.title = 'Vijaya Nagendra  | Portfolio';
     
     // Add dark mode class if user prefers dark mode
     if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
